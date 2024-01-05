@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's link to a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/pmFW1Ph.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/pmFW1Ph
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
