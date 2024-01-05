@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] A "Our Game" navigation link helps quickly navigate to the Our Game section with smooth scrolling.
+* [ ] An "Our Game" navigation link helps quickly navigate to the Our Game section with smooth scrolling.
 
 ## Video Walkthrough
 
@@ -35,7 +35,7 @@ GIF created with Kap
 
 ## Notes
 
-I spend some time perfecting the style of navigation link and implementing smotth scrolling.
+I spent more time than I thought perfecting the style of navigation link and implementing smotth scrolling.
 
 ## License
 
